@@ -2,14 +2,9 @@
 
 List of 300 VueJS Interview Questions
 
-> Click :star:if you like the project. Pull Requests are highly appreciated. Follow
-me [@SudheerJonna](https://twitter.com/SudheerJonna) for technical updates.
-
 ---
 <p align="center">
-  <a href=https://zerotomastery.io/?utm_source=github&utm_medium=sponsor&utm_campaign=vue-interview-questions>
-    <img src=https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=height:70/https://www.filepicker.io/api/file/AKYtjj5SSGyJuyZrkAB2 alt="ZTM Logo">
-  </a>
+  
   <p align="center">
     <ol>
     <li>Take this <a href=https://links.zerotomastery.io/vue_sudheer>Vue.js course</a> to go from a complete Vue beginner to confidently building large-scale applications from scratch</li>
