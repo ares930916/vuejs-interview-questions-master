@@ -7,7 +7,7 @@ List of 300 VueJS Interview Questions
   
   <p align="center">
     <ol>
-    <li>Take this <a href=https://links.zerotomastery.io/vue_sudheer>Vue.js course</a> to go from a complete Vue beginner to confidently building large-scale applications from scratch</li>
+    <li>Take this <a href=https://links.zerotomastery.io/vue_sudheer>Vue.js course</a> to go from a  complete Vue beginner to confidently building large-scale applications from scratch</li>
     <li>Take this <a href=https://links.zerotomastery.io/mci_sudheer4>coding interview bootcamp</a> if you're serious about getting hired and don't have a CS degree</li>
     </ol>
   </p>
@@ -3821,7 +3821,7 @@ access the vm instance.
        }
      }
      ```
-     **Note:** The getters accessed as properties are cached as part of Vue's reactivity system.
+     **Note:** The geastest getters accessed as properties are cached as part of Vue's reactivity system.
 
      **[⬆ Back to Top](#table-of-contents)**
 
