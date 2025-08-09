@@ -15,7 +15,6 @@ List of 300 VueJS Interview Questions
 
 ---
 
-
 ### Table of Contents
 -------------------------------------------------------------------
 
